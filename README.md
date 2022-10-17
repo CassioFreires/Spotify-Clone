@@ -1,6 +1,6 @@
 # Spotify-Clone
 > Site desenvolvido juntamente com o professor do curso Jamilton Damasceno.
-<a href="https://cassiofreires.github.io/Web-finans/">Ver projeto</a>
+<a href="https://cassiofreires.github.io/Spotify-Clone/">Ver projeto</a>
 
 # Versão desktop 🖥
 <div>
